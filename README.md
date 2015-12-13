@@ -1,11 +1,11 @@
 # floyd-warshall
 
-A Clojure implementation of the Floyd Warshall algorithm for undirected
-vertices.
+A Clojure implementation of the Floyd Warshall algorithm for
+undirected graphs.
 
 
 ## License
 
-Copyright (c) 2015 Tarcísio Genaro Rodrigues
+Copyright © 2015 Tarcísio Genaro Rodrigues
 
 Distributed under the The MIT License.
